@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\samples",
+    "\\samples\\hello-world",
+    "\\samples\\hello-world\\public",
+    "\\samples\\hello-world\\src"
+  ],
+  "SelectedNode": "\\package-lock.json",
+  "PreviewInSolutionExplorer": false
+}
