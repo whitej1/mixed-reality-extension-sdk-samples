@@ -4,8 +4,9 @@
     "\\samples",
     "\\samples\\hello-world",
     "\\samples\\hello-world\\public",
-    "\\samples\\hello-world\\src"
+    "\\samples\\hello-world\\src",
+    "\\scripts"
   ],
-  "SelectedNode": "\\package-lock.json",
+  "SelectedNode": "\\samples\\hello-world\\src\\server.ts",
   "PreviewInSolutionExplorer": false
 }
